@@ -125,14 +125,14 @@
               <strong>FAME PERÚ S.A.C</strong>
             </h1>
             <br />
-            <p class="text-muted">
+            <p class="text-dark">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
               consequatur eligendi quisquam doloremque vero ex debitis
               veritatis placeat unde animi laborum sapiente illo possimus,
               commodi dignissimos obcaecati illum maiores corporis.
             </p>
             <br />
-            <button type="button" class="btn btn-rounded btn-lg" style="background-color: #ffbd59">
+            <button type="button" class="btn btn-rounded btn-warning btn-lg text-dark">
               MÁS INFORMACIÓN
             </button>
           </div>
@@ -221,6 +221,13 @@
                 ¡Vea las variedades de productos!
               </h1>
             </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 gx-5 mb-4 text-center ">
+            <a href="productos.php?nt=0" type="button" class="btn btn-warning btn-rounded btn-lg text-dark">
+              Ver productos
+            </a>
           </div>
         </div>
       </div>
