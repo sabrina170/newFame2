@@ -108,10 +108,13 @@
                 <div class="col-md-7 gx-5">
                     <br />
                     <h5 class="text-dark">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-                        consequatur eligendi quisquam doloremque vero ex debitis
-                        veritatis placeat unde animi laborum sapiente illo possimus,
-                        commodi dignissimos obcaecati illum maiores corporis.
+                        Desde hace 25 años nos hemos dedicado a la fabricación y diseño de carrocerías,
+                        contamos con amplia experiencia dentro del mercado
+                        metal mecánica asimismo satisfaciendo a nuestros
+                        clientes con nuestras unidades demostrando la
+                        calidad de fabricación. Nuestro personal está
+                        altamente calificado para así realizar un producto
+                        innovador y resistente.
                     </h5>
                     <div class="row mb-4">
 
@@ -123,10 +126,8 @@
                             </h4>
                             <br />
                             <h5 class="text-dark">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-                                consequatur eligendi quisquam doloremque vero ex debitis
-                                veritatis placeat unde animi laborum sapiente illo possimus,
-                                commodi dignissimos obcaecati illum maiores corporis.
+                                Somos fabricantes de carrocerías con una amplia experiencia dentro del mercado,
+                                ofreciendo así a nuestros clientes calidad de nuestras unidades.
                             </h5>
                             <br />
                         </div>
@@ -138,10 +139,8 @@
                             </h4>
                             <br />
                             <h5 class="text-dark">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-                                consequatur eligendi quisquam doloremque vero ex debitis
-                                veritatis placeat unde animi laborum sapiente illo possimus,
-                                commodi dignissimos obcaecati illum maiores corporis.
+                                Ser la empresa líder dentro del mercado
+                                metalmecánica, para ellos generar crecimiento positivo para la satisfacción de nuestros clientes.
                             </h5>
                             <br />
                         </div>

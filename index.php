@@ -126,15 +126,12 @@
             </h1>
             <br />
             <p class="text-dark">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-              consequatur eligendi quisquam doloremque vero ex debitis
-              veritatis placeat unde animi laborum sapiente illo possimus,
-              commodi dignissimos obcaecati illum maiores corporis.
-            </p>
+              Fabricación, diseño y venta de
+              carrocería de carga pesada y liviana </p>
             <br />
-            <button type="button" class="btn btn-rounded btn-warning btn-lg text-dark">
+            <a href="empresa.php" type="button" class="btn btn-rounded btn-warning btn-lg text-dark">
               MÁS INFORMACIÓN
-            </button>
+            </a>
           </div>
           <div class="col-md-6 gx-5 mb-4">
             <div class="bg-image hover-overlay ripple rounded-5" data-mdb-ripple-color="light">
