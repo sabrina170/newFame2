@@ -162,7 +162,7 @@ $nt = $_REQUEST["nt"];
                 ?>
                     <div class="col">
                         <div class="card h-100">
-                            <img src="data:image/jpeg;base64,<?php echo base64_encode($dat['foto']) ?>" class="card-img-top" alt="..." />
+                            <img src="<?php echo $dat['foto'] ?>" class="card-img-top" alt="..." />
                             <div class="card-body text-center">
                                 <h5 class="card-title"><?php echo $dat['nombre'] ?></h5>
                                 <p class="card-text">

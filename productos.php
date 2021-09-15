@@ -179,15 +179,21 @@ $nt = $_REQUEST["nt"];
                                     <?php if ($dat['foto'] != null) {
                                     ?>
                                         <div class="carousel-item active">
-                                            <img src="data:image/jpeg;base64,<?php echo base64_encode($dat['foto']) ?>" class="d-block w-100" alt="..." />
+                                            <img src="<?php echo $dat['foto'] ?>" class="d-block w-100" alt="..." />
+                                        </div>
+                                    <?php
+                                    } else {
+                                    ?>
+                                        <div class="carousel-item active">
+                                            <img src="imagenes/defecto.jpg" class="d-block w-100" alt="..." />
                                         </div>
                                     <?php
                                     }
-                                    ?>
-                                    <?php if ($dat['foto2'] != null) {
+
+                                    if ($dat['foto2'] != null) {
                                     ?>
                                         <div class="carousel-item ">
-                                            <img src="data:image/jpeg;base64,<?php echo base64_encode($dat['foto2']) ?>" class="d-block w-100" alt="..." />
+                                            <img src="<?php echo $dat['foto2'] ?>" class="d-block w-100" alt="..." />
                                         </div>
                                     <?php
                                     } else {
@@ -196,7 +202,7 @@ $nt = $_REQUEST["nt"];
                                     <?php if ($dat['foto3'] != null) {
                                     ?>
                                         <div class="carousel-item ">
-                                            <img src="data:image/jpeg;base64,<?php echo base64_encode($dat['foto3']) ?>" class="d-block w-100" alt="..." />
+                                            <img src="<?php echo $dat['foto3'] ?>" class="d-block w-100" alt="..." />
                                         </div>
                                     <?php
                                     } else {
@@ -219,7 +225,7 @@ $nt = $_REQUEST["nt"];
                                 <p class="card-text">
                                     <?php echo $dat['descripcion'] ?>
                                 </p>
-                                <a href="detalle-producto.php?id=<?php echo $dat["id"]; ?>&nt=0" type="button" class="btn btn-dark btn-rounded text-white">Detalle</a>
+                                <!-- <a href="detalle-producto.php?id=<?php echo $dat["id"]; ?>&nt=0" type="button" class="btn btn-dark btn-rounded text-white">Detalle</a> -->
 
                                 <button type="button" data-mdb-toggle="modal" data-mdb-target="#exampleModal<?php echo $dat['id']; ?>" class="btn btn-warning btn-rounded text-dark">Consultar</button>
 
