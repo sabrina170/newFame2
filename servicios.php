@@ -58,7 +58,7 @@ $nt = $_REQUEST["nt"];
         <!-- Container wrapper -->
         <div class="container">
             <!-- Navbar brand -->
-            <a class="navbar-brand me-2" href="https://mdbgo.com/">
+            <a class="navbar-brand me-2" href="index.php">
                 <img src="img/logo.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
             </a>
 
@@ -112,10 +112,10 @@ $nt = $_REQUEST["nt"];
 
                     <strong>NUESTROS SERVICIOS</strong>
                 </h3>
-                <p class="text-white">FAMEDI cuenta con un departamento de post venta que ofrece principalmente 3
+                <H5 class="text-white text-center">FAME cuenta ofrece principalmente 3
                     servicios que se acomodan a las necesidades de cada cliente,
                     con la finalidad de anticipar futuros problemas técnicos por
-                    mal funcionamiento de los transportistas y así lograr que sus unidades estén siempre operativas</p>
+                    mal funcionamiento de los transportistas y así lograr que sus unidades estén siempre operativas</H5>
 
             </div>
 

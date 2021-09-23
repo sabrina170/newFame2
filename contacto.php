@@ -66,7 +66,7 @@ $nt = $_REQUEST["nt"]; ?>
             <!-- Container wrapper -->
             <div class="container">
                 <!-- Navbar brand -->
-                <a class="navbar-brand me-2" href="https://mdbgo.com/">
+                <a class="navbar-brand me-2" href="index.php">
                     <img src="img/logo.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
                 </a>
 

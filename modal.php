@@ -12,9 +12,9 @@
                         <input type="hidden" id="tipo" name="tipo" value="1" class="form-control" />
 
                         <input type="hidden" id="asunto" name="asunto" value="Producto <?php echo $dat['nombre'] ?>" class="form-control" />
-                        <div class="form-outline mb-4">
-                            <input type="text" id="descripcion" name="descripcion" class="form-control" disabled />
-                            <label class="form-label" for="form1Example1"><?php echo $dat['descripcion'] ?></label>
+                        <div class="form mb-4">
+                            <textarea id="descripcion" name="descripcion" class="form-control" rows="2" disabled><?php echo $dat['descripcion'] ?></textarea>
+
                         </div>
                         <!-- Email input -->
                         <div class="form mb-4">

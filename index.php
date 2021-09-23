@@ -64,7 +64,7 @@
       <!-- Container wrapper -->
       <div class="container">
         <!-- Navbar brand -->
-        <a class="navbar-brand me-2" href="https://mdbgo.com/">
+        <a class="navbar-brand me-2" href="index.php">
           <img src="img/logo.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
         </a>
 
@@ -151,49 +151,106 @@
       <div class="container">
         <br />
         <div class="row">
-          <div class="col-md-3 gx-5 mb-4">
-            <div class="card hover-overlay cards">
-              <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="img/4.png" class="img-fluid" />
-                <a href="#!">
-                  <div class="mask" style="background-color: rgba(251, 251, 251, 0.15)"></div>
-                </a>
+          <div class="col-md-9 gx-5 mb-4">
+            <div id="carouselExampleControls" class="carousel slide" data-mdb-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/izaje1.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/izaje2.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/izaje3.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/baranda.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/bombona1.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/bombona2.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+                <div class="carousel-item">
+                  <div class="row">
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/cortinero1.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/cortinero2.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                        <img src="imagenes/cortinero3.jpg" class="w-100" />
+                        <a href="#!">
+                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                        </a>
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+
               </div>
-              <div class="card-body">
-                <h5 class="card-title text-center cardti">
-                  REMOLQUE
-                </h5>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 gx-5 mb-4">
-            <div class="card hover-overlay cards">
-              <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="img/2.png" class="img-fluid" />
-                <a href="#!">
-                  <div class="mask" style="background-color: rgba(251, 251, 251, 0.15)"></div>
-                </a>
-              </div>
-              <div class="card-body">
-                <h5 class="card-title text-center cardti">
-                  SEMI-REMOLQUE
-                </h5>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 gx-5 mb-4">
-            <div class="card hover-overlay cards">
-              <div class="bg-image hover-overlay ripple" data-mdb-ripple-color="light">
-                <img src="img/3.png" class="img-fluid" />
-                <a href="#!">
-                  <div class="mask" style="background-color: rgba(251, 251, 251, 0.15)"></div>
-                </a>
-              </div>
-              <div class="card-body">
-                <h5 class="card-title text-center cardti">
-                  CHASIS
-                </h5>
-              </div>
+              <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleControls" data-mdb-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+              </button>
+              <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleControls" data-mdb-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+              </button>
             </div>
           </div>
           <div class="col-md-3 gx-5 mb-4">
@@ -208,7 +265,7 @@
               Somos fabricantes de carrocerías
             </p>
             <div style="background-color: #09508a;">
-              <h1 style="
+              <h3 style="
                     color: #ffffff;
                     font-weight: 800;
                     line-height: 41px;
@@ -216,10 +273,11 @@
                     font-family: 'Montserrat', Sans-serif;
                   " class="text-left">
                 ¡Vea las variedades de productos!
-              </h1>
+              </h3>
             </div>
           </div>
         </div>
+
         <div class="row">
           <div class="col-md-12 gx-5 mb-4 text-center ">
             <a href="productos.php?nt=0" type="button" class="btn btn-warning btn-rounded btn-lg text-dark">
@@ -307,22 +365,23 @@
                 <img src="img/servicios.png" class="img-fluid" alt="Sample" />
                 <div class="mask">
                   <div class="d-flex justify-content-center align-items-center h-100">
-                    <p class="text-white mb-0 text-center cardti" style="background-color: rgba(0,0, 0, 0.6);">Aprovados todos nuestros servicios?</p>
+                    <p class="text-white mb-0 text-center cardti" style="background-color: rgba(0,0, 0, 0.6);">SERVICIOS FAME</p>
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-md-7">
+              <br>
               <div class="card-body ">
-                <ul class="list-group list-group-flush mt-4 mb-6">
-                  <li class="list-group-item">SERVICIO DE INSPECCIONES PREVENTIVAS</li>
-                  <li class="list-group-item">SERVICIO DE MANTENIMIENTO</li>
-                  <li class="list-group-item">SERVICIO DE CAPACITACIONES TÉCNICAS</li>
-                  <li class="list-group-item">DISEÑO</li>
-                  <li class="list-group-item">FABRICACIÓN</li>
+                <ul class="list-group list-group-flush mt-4 mb-6 text-center">
+                  <li class="list-group-item">PANTÓGRAFO CNC</li>
+                  <li class="list-group-item">CORTE Y DOBLEZ</li>
+                  <li class="list-group-item">ROLADO</li>
                 </ul>
-                <p class="card-text">
-                  <button type="button" class="btn btn-warning">Warning</button>
+                <p class="card-text text-center">
+                  <a href="servicios.php?nt=0" type="button" class="btn btn-warning btn-rounded btn-lg text-dark">
+                    Ver servicios
+                  </a>
                 </p>
               </div>
             </div>
