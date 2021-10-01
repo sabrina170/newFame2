@@ -67,7 +67,7 @@ $nt = $_REQUEST["nt"]; ?>
             <div class="container">
                 <!-- Navbar brand -->
                 <a class="navbar-brand me-2" href="index.php">
-                    <img src="img/logo.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
+                    <img src="img/fameperu.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
                 </a>
 
                 <!-- Toggle button -->
@@ -231,7 +231,7 @@ $nt = $_REQUEST["nt"]; ?>
 
                     </div>
                     <div class="col-md-6 gx-5">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.4025975494837!2d-76.89075988618437!3d-12.015780591487944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c3c6b67333c7%3A0xb95393edeaccc36e!2sAv.%20Nicol%C3%A1s%20Ayll%C3%B3n%209199%2C%20Cercado%20de%20Lima%2015487!5e0!3m2!1ses!2spe!4v1630297118229!5m2!1ses!2spe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        <img src="img/señor.jpeg" class="img-fluid">
                     </div>
                 </div>
 
