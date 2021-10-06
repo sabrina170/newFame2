@@ -2,7 +2,7 @@
 include('header.php');
 include('conexion.php');
 
-$consulta = "SELECT * FROM productos";
+$consulta = "SELECT * FROM productos ORDER BY foto desc";
 $resultado = mysqli_query($cn, $consulta);
 
 $nt = $_REQUEST["nt"];
@@ -113,13 +113,13 @@ $nt = $_REQUEST["nt"];
                     <strong>NUESTROS PRODUCTOS</strong>
                 </h3>
                 <div class="col-md-4 gx-5">
-                    <img src="img/producto1.png" class="img-fluid  text-center" alt="" />
+                    <img src="img/prod1.png" class="img-fluid  text-center" alt="" />
                 </div>
                 <div class="col-md-4 gx-5">
-                    <img src="img/producto2.png" class="img-fluid  text-center" alt="" />
+                    <img src="img/prod2.png" class="img-fluid  text-center" alt="" />
                 </div>
                 <div class="col-md-4 gx-5">
-                    <img src="img/producto3.png" class="img-fluid  text-center" alt="" />
+                    <img src="img/prod3.png" class="img-fluid  text-center" alt="" />
                 </div>
             </div>
 
@@ -130,11 +130,6 @@ $nt = $_REQUEST["nt"];
 <main>
     <section>
         <div class="container">
-            <h3 class="text-center mb-4" style=" color: #09508a;  font-weight: 800;  line-height: 41px; letter-spacing: 0.5px;
-                  font-family: 'Montserrat', Sans-serif; ">
-
-                <strong>NUESTROS PRODUCTOS</strong>
-            </h3>
             <?php
             if ($nt ==  1) {
             ?>

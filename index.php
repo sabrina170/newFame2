@@ -58,7 +58,7 @@
 </style>
 
 <body>
-  <main class="bg-image" style=" background-image: url('img/portada_fame1.png'); background-repeat: no-repeat;
+  <main class="bg-image" style=" background-image: url('img/port1.png'); background-repeat: no-repeat;
       background-color: #063c66;border-width: 0px;border-color: #063c66;">
     <nav class="navbar navbar-expand-lg navbar-light">
       <!-- Container wrapper -->
@@ -113,7 +113,7 @@
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-md-6 gx-5 mb-4 mt-5">
+          <div class="col-md-6 gx-5 mb-4">
             <br />
             <h1 style="
                   color: #063c66;
@@ -122,7 +122,7 @@
                   letter-spacing: 0.5px;
                   font-family: 'Montserrat', Sans-serif;
                 ">
-              <strong>FAME PERÚ S.A.C</strong>
+              <img src="img/fameperu-PhotoRoom.png" width="70%">
             </h1>
             <br />
             <p class="text-dark">
@@ -135,7 +135,7 @@
           </div>
           <div class="col-md-6 gx-5 mb-4">
             <div class="bg-image hover-overlay ripple rounded-5" data-mdb-ripple-color="light">
-              <img src="img/carro_fame2.png" class="img-fluid" />
+              <img src="img/foto_port1.png" class="img-fluid" />
               <a href="#!">
                 <div class="mask" style="background-color: rgba(251, 251, 251, 0.15)"></div>
               </a>
@@ -253,7 +253,7 @@
               </button>
             </div>
           </div>
-          <div class="col-md-3 gx-5 mb-4">
+          <div class="col-md-3 gx-5 mb-4" style="background-color: #09508a;">
             <p class="mt-4" style="
                     color: #fff;
                     font-family: 'Montserrat', Sans-serif;
@@ -261,6 +261,7 @@
                     font-weight: 700;
                     text-transform: uppercase;
                     letter-spacing: 2.6px;
+
                   ">
               Somos fabricantes de carrocerías
             </p>
@@ -305,20 +306,19 @@
         </h3>
         <br>
         <p class="text-muted">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
-          consequatur eligendi quisquam doloremque vero ex debitis
-          veritatis placeat unde animi laborum sapiente illo possimus,
-          commodi dignissimos obcaecati illum maiores corporis.
+          Más de xx años de experiencia y clientes satisfechos nos avalan.
+          Todos nuestros procesos son realizados con equipos de última
+          generación y siempre con:
         </p>
         <div class="row row-cols-1 row-cols-md-3 g-4">
           <div class="col">
             <div class="text-center">
-              <img src="img/practica.png" class="img-fluid hover-shadow" alt="..." />
+              <img src="img/seguro-de-calidad (1).png" class="img-fluid hover-shadow" alt="..." />
               <div class="card-body">
-                <h5 class="card-title">EXPERIENCIA</h5>
+                <h5 class="card-title">CALIDAD</h5>
                 <p class="card-text">
-                  This is a longer card with supporting text below as a natural lead-in to
-                  additional content. This content is a little bit longer.
+                  Nuestros productos antes de ser entregados al cliente pasan
+                  por una adecuada supervisión de calidad.
                 </p>
               </div>
             </div>
@@ -327,10 +327,9 @@
             <div class="text-center">
               <img src="img/garantia.png" class="img-fluid hover-shadow" alt="..." />
               <div class="card-body">
-                <h5 class="card-title">GARANTÍA</h5>
+                <h5 class="card-title">NORMAS</h5>
                 <p class="card-text">
-                  This is a longer card with supporting text below as a natural lead-in to
-                  additional content. This content is a little bit longer.
+                  Diseñamos de acuerdo a la carga del vehículo respetando las normas nacionales.
                 </p>
               </div>
             </div>
@@ -339,10 +338,9 @@
             <div class="text-center">
               <img src="img/mantenimiento.png" class="img-fluid hover-shadow" alt="..." />
               <div class="card-body">
-                <h5 class="card-title">MANTENIMIENTO</h5>
+                <h5 class="card-title">MATERIALES</h5>
                 <p class="card-text">
-                  This is a longer card with supporting text below as a natural lead-in to
-                  additional content. This content is a little bit longer.
+                  Trabajamos con materiales de primera calidad.
                 </p>
               </div>
             </div>
@@ -354,15 +352,14 @@
               font-weight: 800;
               line-height: 41px;
               letter-spacing: 0.5px;
-              font-family: 'Montserrat', Sans-serif;
-            ">
+              font-family: 'Montserrat', Sans-serif;">
           NUESTROS SERVICIOS
         </h3>
         <div class="mb-3">
           <div class="row g-0">
             <div class="col-md-5">
               <div class="bg-image">
-                <img src="img/servicios.png" class="img-fluid" alt="Sample" />
+                <img src="img/ser.png" class="img-fluid" alt="Sample" />
                 <div class="mask">
                   <div class="d-flex justify-content-center align-items-center h-100">
                     <p class="text-white mb-0 text-center cardti" style="background-color: rgba(0,0, 0, 0.6);">SERVICIOS FAME</p>
