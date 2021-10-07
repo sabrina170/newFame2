@@ -17,21 +17,7 @@
             <a href="" class="me-4 text-reset">
                 <i class="fab fa-facebook-f"></i>
             </a>
-            <a href="" class="me-4 text-reset">
-                <i class="fab fa-twitter"></i>
-            </a>
-            <a href="" class="me-4 text-reset">
-                <i class="fab fa-google"></i>
-            </a>
-            <a href="" class="me-4 text-reset">
-                <i class="fab fa-instagram"></i>
-            </a>
-            <a href="" class="me-4 text-reset">
-                <i class="fab fa-linkedin"></i>
-            </a>
-            <a href="" class="me-4 text-reset">
-                <i class="fab fa-github"></i>
-            </a>
+
         </div>
         <!-- Right -->
     </section>
@@ -44,42 +30,38 @@
             <div class="row mt-3">
                 <div class="col-md-4 col-lg-4 col-xl-4 mx-auto mb-4">
                     <!-- Content -->
-                    <h6 class="text-uppercase fw-bold mb-4">
-                        <i class="fas fa-school"></i> "FAME" S.A.C
-                    </h6>
-                    <p>
-                        Here you can use rows and columns to organize your footer
-                        content. Lorem ipsum dolor sit amet, consectetur adipisicing
-                        elit.
-                    </p>
+
+
+                    <img src="img/logo-letras.png" width="70%">
+
+                    <img src="img/logo-signo.png" width="30%">
+
                 </div>
                 <div class="col-md-4 col-lg-5 col-xl-5 mx-auto mb-4">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold mb-4">Contacto</h6>
                     <p>
-                        <i class="fas fa-home me-3"></i> Calle la Florida 358 -
-                        Chaclacayo
+                        <i class="fas fa-home me-3"></i> Av. Nicolas ayllon nro 9199 Ate Lima
                     </p>
                     <p>
                         <i class="fas fa-envelope me-3"></i>
-                        fame@gmail.com
+                        Fameperu_kard@hotmail.com
                     </p>
                     <p>
-                        <i class="fas fa-phone me-3"></i> + 01 3583138 / 989142624
-                        /933765223
+                        <i class="fas fa-phone me-3"></i> 990761792
                     </p>
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-4">
                     <!-- Links -->
-                    <h6 class="text-uppercase fw-bold mb-4">Inicio</h6>
+                    <h6 class="text-uppercase fw-bold mb-4">DESTCADOS</h6>
                     <p>
-                        <a href="#!" class="text-reset">Productos</a>
+                        <a href="productos.php?nt=0" class="text-reset">Productos</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Servicios</a>
+                        <a href="servicios.php?nt=0" class="text-reset">Servicios</a>
                     </p>
                     <p>
-                        <a href="#!" class="text-reset">Contacto</a>
+                        <a href="contacto.php?nt=0" class="text-reset">Contacto</a>
                     </p>
                 </div>
             </div>

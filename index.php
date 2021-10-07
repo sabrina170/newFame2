@@ -400,13 +400,13 @@
             ">
           CLIENTES
         </h3>
-        <div id="carouselExampleControls" class="carousel slide" data-mdb-ride="carousel">
+        <div id="carouselExampleControls2" class="carousel slide" data-mdb-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row">
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli1.png" class="w-100" />
+                    <img src="img/a.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -414,7 +414,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli2.png" class="w-100" />
+                    <img src="img/b.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -422,7 +422,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli3.png" class="w-100" />
+                    <img src="img/c.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -430,7 +430,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli4.png" class="w-100" />
+                    <img src="img/d.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -443,7 +443,7 @@
               <div class="row">
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded">
-                    <img src="img/cli1.png" class="w-100" />
+                    <img src="img/e.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -451,7 +451,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli2.png" class="w-100" />
+                    <img src="img/a.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -459,7 +459,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli3.png" class="w-100" />
+                    <img src="img/b.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -467,7 +467,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
                   <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                    <img src="img/cli4.png" class="w-100" />
+                    <img src="img/c.png" class="w-100" />
                     <a href="#!">
                       <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                     </a>
@@ -476,13 +476,49 @@
 
               </div>
             </div>
+            <div class="carousel-item">
+              <div class="row">
+                <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
+                  <div class="bg-image hover-overlay ripple shadow-1-strong rounded">
+                    <img src="img/d.png" class="w-100" />
+                    <a href="#!">
+                      <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                    </a>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
+                  <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                    <img src="img/e.png" class="w-100" />
+                    <a href="#!">
+                      <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                    </a>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
+                  <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                    <img src="img/a.png" class="w-100" />
+                    <a href="#!">
+                      <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                    </a>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-12 mb-4 mb-md-0">
+                  <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
+                    <img src="img/b.png" class="w-100" />
+                    <a href="#!">
+                      <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
+                    </a>
+                  </div>
+                </div>
 
+              </div>
+            </div>
           </div>
-          <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleControls" data-mdb-slide="prev">
+          <button class="carousel-control-prev" type="button" data-mdb-target="#carouselExampleControls2" data-mdb-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
           </button>
-          <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleControls" data-mdb-slide="next">
+          <button class="carousel-control-next" type="button" data-mdb-target="#carouselExampleControls2" data-mdb-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
           </button>
