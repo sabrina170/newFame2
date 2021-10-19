@@ -2,7 +2,7 @@
 include('header.php');
 include('conexion.php');
 
-$consulta = "SELECT * FROM productos ORDER BY foto desc";
+$consulta = "SELECT * FROM productos";
 $resultado = mysqli_query($cn, $consulta);
 
 $nt = $_REQUEST["nt"];
@@ -94,6 +94,9 @@ $nt = $_REQUEST["nt"];
                             <a class="nav-link" href="servicios.php?nt=0">Servicios</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="clientes.php">Clientes</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="contacto.php?nt=0">contacto</a>
                         </li>
 
@@ -116,7 +119,7 @@ $nt = $_REQUEST["nt"];
                     <img src="img/prod1.png" class="img-fluid  text-center" alt="" />
                 </div>
                 <div class="col-md-4 gx-5">
-                    <img src="img/prod2.png" class="img-fluid  text-center" alt="" />
+                    <img src="img/pro-nom2.png" class="img-fluid  text-center" alt="" />
                 </div>
                 <div class="col-md-4 gx-5">
                     <img src="img/prod3.png" class="img-fluid  text-center" alt="" />

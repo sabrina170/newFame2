@@ -32,9 +32,9 @@
                     <!-- Content -->
 
 
-                    <img src="img/logo-letras.png" width="70%">
+                    <img src="img/logo-blanco.png" width="70%">
 
-                    <img src="img/logo-signo.png" width="30%">
+
 
                 </div>
                 <div class="col-md-4 col-lg-5 col-xl-5 mx-auto mb-4">
@@ -53,7 +53,7 @@
                 </div>
                 <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-4">
                     <!-- Links -->
-                    <h6 class="text-uppercase fw-bold mb-4">DESTCADOS</h6>
+                    <h6 class="text-uppercase fw-bold mb-4">DESTACADOS</h6>
                     <p>
                         <a href="productos.php?nt=0" class="text-reset">Productos</a>
                     </p>

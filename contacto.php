@@ -67,7 +67,7 @@ $nt = $_REQUEST["nt"]; ?>
             <div class="container">
                 <!-- Navbar brand -->
                 <a class="navbar-brand me-2" href="index.php">
-                    <img src="img/fameperu.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
+                    <img src="img/fameperu-PhotoRoom.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
                 </a>
 
                 <!-- Toggle button -->
@@ -100,6 +100,9 @@ $nt = $_REQUEST["nt"]; ?>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="servicios.php?nt=0">Servicios</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="clientes.php">Clientes</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link active2" href="contacto.php?nt=0">contacto</a>
@@ -231,7 +234,7 @@ $nt = $_REQUEST["nt"]; ?>
 
                     </div>
                     <div class="col-md-6 gx-5">
-                        <img src="img/señor.jpeg" class="img-fluid">
+                        <img src="img/jovenes-que-trabajan-centro-llamadas-acercan-nuevas-ofertas_146671-16342.jpg" class="img-fluid">
                     </div>
                 </div>
 

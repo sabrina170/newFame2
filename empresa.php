@@ -87,6 +87,9 @@
                             <a class="nav-link" href="servicios.php?nt=0">Servicios</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link" href="clientes.php">Clientes</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="contacto.php?nt=0">contacto</a>
                         </li>
 

@@ -65,7 +65,7 @@
       <div class="container">
         <!-- Navbar brand -->
         <a class="navbar-brand me-2" href="index.php">
-          <img src="img/fameperu-PhotoRoom.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
+          <img src="img/fameperu-PhotoRoom.png" height="80" alt="" loading="lazy" style="margin-top: -1px" />
         </a>
 
         <!-- Toggle button -->
@@ -100,6 +100,9 @@
                 <a class="nav-link" href="servicios.php?nt=0">Servicios</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="clientes.php">Clientes</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="contacto.php?nt=0">contacto</a>
               </li>
 
@@ -113,22 +116,20 @@
     <section>
       <div class="container">
         <div class="row">
-          <div class="col-md-6 gx-5 mb-4">
-            <br />
-            <h1 style="
+          <div class="col-md-6 gx-5 mb-4 mt-4">
+            <br>
+            <h4 style="
                   color: #063c66;
                   font-weight: 800;
                   line-height: 41px;
                   letter-spacing: 0.5px;
                   font-family: 'Montserrat', Sans-serif;
                 ">
-              <img src="img/fameperu-PhotoRoom.png" width="70%">
-            </h1>
-            <br />
-            <p class="text-dark">
               Fabricación, diseño y venta de
-              carrocería de carga pesada y liviana </p>
+              carrocería de carga pesada y liviana
+            </h4>
             <br />
+
             <a href="empresa.php" type="button" class="btn btn-rounded btn-warning btn-lg text-dark">
               MÁS INFORMACIÓN
             </a>

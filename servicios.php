@@ -94,6 +94,9 @@ $nt = $_REQUEST["nt"];
                             <a class="nav-link text-white" href="servicios.php?nt=0">Servicios</a>
                         </li>
                         <li class="nav-item">
+                            <a class="nav-link text-white" href="clientes.php">Clientes</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link text-white" href="contacto.php?nt=0">contacto</a>
                         </li>
 
