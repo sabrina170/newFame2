@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 5.0.3
+-- version 5.0.4
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 15-09-2021 a las 23:48:32
--- Versión del servidor: 10.4.14-MariaDB
--- Versión de PHP: 7.2.34
+-- Tiempo de generación: 19-10-2021 a las 04:37:56
+-- Versión del servidor: 10.4.17-MariaDB
+-- Versión de PHP: 7.3.26
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -42,15 +42,15 @@ CREATE TABLE `productos` (
 --
 
 INSERT INTO `productos` (`id`, `nombre`, `foto`, `descripcion`, `foto2`, `foto3`, `categoria`) VALUES
-(1, 'Furgones', NULL, 'De 13 metros y 14 metros', NULL, NULL, 'Furgones'),
+(1, 'Furgones', 'imagenes/furgones1.jpg', 'De 13 metros y 14 metros', 'imagenes/furgones2.jpg', 'imagenes/furgones3.jpg', 'imagenes/furgones4.jpg'),
 (2, 'Cama Baja', NULL, 'Fabricamos cama baja de 2, 3 y 4 ejes para maquinarias pesada.', NULL, NULL, 'Cama Baja'),
 (3, 'Bombonas', 'imagenes/bombona1.jpg', 'bombona calera en plancha hardox de 37m3 super liviana \r\nBombona para cemento a granel y filer de 34 m3.\r\n', 'imagenes/bombona2.jpg', 'imagenes/bombona3.jpg', 'Bombonas'),
 (4, 'Cisternas', 'imagenes/cisterna1.jpg', '-Tanque de combustible de 2 o 3 compartimiento\r\n-Tanque de aceite \r\n', 'imagenes/cisterna2.jpg', 'imagenes/cisterna3.jpg', 'Cisternas'),
-(5, 'Plataforma', NULL, 'De 3 a 2 ejes para carga liviana y pesada.', NULL, NULL, 'Plataforma'),
+(5, 'Plataforma', 'imagenes/plataforma1.jpg', 'De 3 a 2 ejes para carga liviana y pesada.', NULL, NULL, 'Plataforma'),
 (6, 'Baranda rebatible', 'imagenes/baranda.jpg', 'Sobre chasis y alas gaviota ', NULL, NULL, 'Baranda rebatible'),
 (7, 'Cortineros', 'imagenes/cortinero1.jpg', 'Carga de gaseosa, cerveza y paletizado.', 'imagenes/cortinero2.jpg', 'imagenes/cortinero3.jpg', 'Cortineros'),
 (8, 'Izajes', 'imagenes/izaje1.jpg', 'Fabricamos izaje de 15 y 18 y 20 m3 para residuos solidos.\r\n(tanque vacio 15 y 18m3).\r\n', 'imagenes/izaje2.jpg', 'imagenes/izaje3.jpg', 'Izajes'),
-(9, 'Contenedor', NULL, 'Fabricamos contenedor para carga de 10, 15 y 18 m3.', NULL, NULL, 'Contenedor');
+(9, 'Contenedor', 'imagenes/contenedor1.jpg', 'Fabricamos contenedor para carga de 10, 15 y 18 m3.', NULL, NULL, 'Contenedor');
 
 -- --------------------------------------------------------
 
