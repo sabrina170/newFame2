@@ -166,28 +166,28 @@ $nt = $_REQUEST["nt"]; ?>
                     <div class="col-md-3 gx-5">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Lunes:
-                                08:00 - 16:00
+                                08:00 a.m - 18:00 p.m
                             </li>
                             <li class="list-group-item">Martes:
-                                08:00 - 16:00</li>
+                                08:00 a.m - 18:00 p.m</li>
                         </ul>
                     </div>
                     <div class="col-md-3 gx-5">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Miércoles:
-                                08:00 - 16:00
+                                08:00 a.m - 18:00 p.m
                             </li>
                             <li class="list-group-item">Jueves:
-                                08:00 - 16:00</li>
+                                08:00 a.m - 18:00 p.m</li>
                         </ul>
                     </div>
                     <div class="col-md-3 gx-5">
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">Viernes:
-                                08:00 - 16:00
+                                08:00 a.m - 18:00 p.m
                             </li>
                             <li class="list-group-item">Sábado:
-                                08:00 - 16:00</li>
+                                08:00 a.m - 16:00 p.m</li>
                         </ul>
                     </div>
                 </div>
