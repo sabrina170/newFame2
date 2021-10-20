@@ -28,16 +28,16 @@
         <div class="container text-center text-md-start mt-5">
             <!-- Grid row -->
             <div class="row mt-3">
-                <div class="col-md-4 col-lg-4 col-xl-4 mx-auto mb-4">
+                <div class="col-md-5 col-lg-5 col-xl-5 mx-auto mb-4">
                     <!-- Content -->
 
 
-                    <img src="img/logo-blanco.png" width="70%">
+                    <img src="img/logo-blanco.png" height="100">
 
 
 
                 </div>
-                <div class="col-md-4 col-lg-5 col-xl-5 mx-auto mb-4">
+                <div class="col-md-4 col-lg-4 col-xl-4 mx-auto mb-4">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold mb-4">Contacto</h6>
                     <p>
@@ -51,7 +51,7 @@
                         <i class="fas fa-phone me-3"></i> 990761792
                     </p>
                 </div>
-                <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-4">
+                <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
                     <!-- Links -->
                     <h6 class="text-uppercase fw-bold mb-4">DESTACADOS</h6>
                     <p>

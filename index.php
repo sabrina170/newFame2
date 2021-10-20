@@ -65,7 +65,7 @@
       <div class="container">
         <!-- Navbar brand -->
         <a class="navbar-brand me-2" href="index.php">
-          <img src="img/fameperu-PhotoRoom.png" height="80" alt="" loading="lazy" style="margin-top: -1px" />
+          <img src="img/fameperu-PhotoRoom.png" height="100" alt="" loading="lazy" style="margin-top: -1px" />
         </a>
 
         <!-- Toggle button -->
@@ -167,35 +167,6 @@
                     </div>
                     <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
                       <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/izaje2.jpg" class="w-100" />
-                        <a href="#!">
-                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-                        </a>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/izaje3.jpg" class="w-100" />
-                        <a href="#!">
-                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-                        </a>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row">
-                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/baranda.jpg" class="w-100" />
-                        <a href="#!">
-                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-                        </a>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
                         <img src="imagenes/bombona1.jpg" class="w-100" />
                         <a href="#!">
                           <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
@@ -204,36 +175,7 @@
                     </div>
                     <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
                       <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/bombona2.jpg" class="w-100" />
-                        <a href="#!">
-                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-                        </a>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row">
-                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/cortinero1.jpg" class="w-100" />
-                        <a href="#!">
-                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-                        </a>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/cortinero2.jpg" class="w-100" />
-                        <a href="#!">
-                          <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
-                        </a>
-                      </div>
-                    </div>
-                    <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
-                      <div class="bg-image hover-overlay ripple shadow-1-strong rounded" data-ripple-color="light">
-                        <img src="imagenes/cortinero3.jpg" class="w-100" />
+                        <img src="imagenes/izaje3.jpg" class="w-100" />
                         <a href="#!">
                           <div class="mask" style="background-color: rgba(251, 251, 251, 0.2);"></div>
                         </a>

@@ -53,7 +53,7 @@ include('header.php');
         <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand me-2" href="index.php">
-                <img src="img/fameperu-PhotoRoom.png" height="60" alt="" loading="lazy" style="margin-top: -1px" />
+                <img src="img/fameperu-PhotoRoom.png" height="100" alt="" loading="lazy" style="margin-top: -1px" />
             </a>
 
             <!-- Toggle button -->
@@ -111,7 +111,7 @@ include('header.php');
                 </h3>
 
                 <div class="col-12 text-center">
-                    <img src="img/b.png" alt="" width="20%" height="70%">
+                    <img src="img/f.png" alt="" width="20%" height="70%">
                     <h6 class="text-center" style=" color: #09508a;  font-weight: 800;  line-height: 41px; letter-spacing: 0.5px;
                   font-family: 'Montserrat', Sans-serif; ">
                         Nos ofrece
@@ -125,7 +125,7 @@ include('header.php');
                     <img src="img/BOMBONAS/8.png" class="img-fluid  text-center" height="60" alt="" />
                 </div>
                 <div class="col-md-3 gx-5">
-                    <img src="img/BOMBONAS/9.png" class="img-fluid  text-center" height="60" alt="" />
+                    <img src="img/BOMBONAS/9.jpg" class="img-fluid  text-center" height="60" alt="" />
                 </div>
                 <div class="col-md-3 gx-5">
                     <img src="img/BOMBONAS/10.png" class="img-fluid  text-center" height="60" alt="" />
