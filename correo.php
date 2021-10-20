@@ -6,7 +6,7 @@ if ($_POST) {
     // telefono del comprador
     $email = "";
     // 
-    $email_title = "Nuevo Consulta de un Producto";
+    $email_title = "Nuevo Consulta";
     // ¡Deseo saber mas imformacion del producto .....?
     $asunto = "";
     // consulta del comprador
@@ -42,13 +42,13 @@ if ($_POST) {
     $mensaje1 .= "<br>";
 
     if ($asunto == "billing") {
-        $recipient = "sabrina.pomajulca@tecsup.edu.pe";
+        $recipient = "fameperu_kard@hotmail.com";
     } else if ($asunto == "marketing") {
-        $recipient = "sabrina.pomajulca@tecsup.edu.pe";
+        $recipient = "fameperu_kard@hotmail.com";
     } else if ($asunto == "technical support") {
-        $recipient = "sabrina.pomajulca@tecsup.edu.pe";
+        $recipient = "fameperu_kard@hotmail.com";
     } else {
-        $recipient = "sabrina.pomajulca@tecsup.edu.pe";
+        $recipient = "fameperu_kard@hotmail.com";
     }
     //Creamos cabecera.
     $headers  = 'MIME-Version: 1.0' . "\r\n"
