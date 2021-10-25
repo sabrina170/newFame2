@@ -117,7 +117,6 @@ include('header.php');
                         Nos ofrece
                     </h6>
                 </div>
-
                 <div class="col-md-3 gx-5">
                     <img src="img/BOMBONAS/7.png" class="img-fluid  text-center" height="60" alt="" />
                 </div>
@@ -127,7 +126,6 @@ include('header.php');
                 <div class="col-md-3 gx-5">
                     <img src="img/BOMBONAS/10.png" class="img-fluid  text-center" height="60" alt="" />
                 </div>
-
                 <br>
                 <div class="col-12 text-center mt-4">
                     <img src="img/a.png" alt="" width="20%" height="70%">
