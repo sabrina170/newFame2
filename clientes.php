@@ -53,7 +53,7 @@ include('header.php');
         <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand me-2" href="index.php">
-                <img src="img/fameperu-PhotoRoom.png" height="100" alt="" loading="lazy" style="margin-top: -1px" />
+                <img src="img/fameperu-PhotoRoom.png" height="80" alt="" loading="lazy" style="margin-top: -1px" />
             </a>
 
             <!-- Toggle button -->
@@ -125,9 +125,6 @@ include('header.php');
                     <img src="img/BOMBONAS/8.png" class="img-fluid  text-center" height="60" alt="" />
                 </div>
                 <div class="col-md-3 gx-5">
-                    <img src="img/BOMBONAS/9.jpg" class="img-fluid  text-center" height="60" alt="" />
-                </div>
-                <div class="col-md-3 gx-5">
                     <img src="img/BOMBONAS/10.png" class="img-fluid  text-center" height="60" alt="" />
                 </div>
 
@@ -172,6 +169,41 @@ include('header.php');
                 </div>
                 <div class="col-md-3 gx-5">
                     <img src="img/CISTERNAS/4.jpg" class="img-fluid  text-center" height="60" alt="" />
+                </div>
+
+                <div class="col-12 text-center mt-4">
+                    <img src="img/t.png" alt="" width="20%" height="70%">
+                    <h6 class="text-center" style=" color: #09508a;  font-weight: 800;  line-height: 41px; letter-spacing: 0.5px;
+                  font-family: 'Montserrat', Sans-serif; ">
+                        Nos ofrece
+                    </h6>
+                </div>
+
+                <div class="col-md-3 gx-5">
+                    <img src="img/SanAlejandro/11.png" class="img-fluid  text-center" height="60" alt="" />
+                </div>
+                <div class="col-md-3 gx-5">
+                    <img src="img/SanAlejandro/12.png" class="img-fluid  text-center" height="60" alt="" />
+                </div>
+                <div class="col-md-3 gx-5">
+                    <img src="img/SanAlejandro/13.png" class="img-fluid  text-center" height="60" alt="" />
+                </div>
+                <div class="col-md-3 gx-5">
+                    <img src="img/SanAlejandro/14.png" class="img-fluid  text-center" height="60" alt="" />
+                </div>
+                <div class="col-12 text-center mt-4">
+                    <img src="img/e.png" alt="" width="20%" height="70%">
+                    <h6 class="text-center" style=" color: #09508a;  font-weight: 800;  line-height: 41px; letter-spacing: 0.5px;
+                  font-family: 'Montserrat', Sans-serif; ">
+                        Nos ofrece
+                    </h6>
+                </div>
+
+                <div class="col-md-3 gx-5">
+                    <img src="img/toñito/15.png" class=" img-fluid text-center" height="60" alt="" />
+                </div>
+                <div class="col-md-3 gx-5">
+                    <img src="img/toñito/16.png" class=" img-fluid text-center" height="60" alt="" />
                 </div>
             </div>
 
